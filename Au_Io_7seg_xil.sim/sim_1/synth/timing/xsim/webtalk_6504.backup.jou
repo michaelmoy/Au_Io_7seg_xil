@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1.1 (64-bit)
+# SW Build 2960000 on Wed Aug  5 22:57:20 MDT 2020
+# IP Build 2956692 on Thu Aug  6 01:41:30 MDT 2020
+# Start of session at: Thu Sep 17 21:54:41 2020
+# Process ID: 6504
+# Current directory: C:/MoySandbox/my-fpga/xil_7seg_Cu/xil_7seg_Cu.sim/sim_1/synth/timing/xsim
+# Command line: wbtcv.exe -mode batch -source C:/MoySandbox/my-fpga/xil_7seg_Cu/xil_7seg_Cu.sim/sim_1/synth/timing/xsim/xsim.dir/top_7seg_Br_tb_time_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/MoySandbox/my-fpga/xil_7seg_Cu/xil_7seg_Cu.sim/sim_1/synth/timing/xsim/webtalk.log
+# Journal file: C:/MoySandbox/my-fpga/xil_7seg_Cu/xil_7seg_Cu.sim/sim_1/synth/timing/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/MoySandbox/my-fpga/xil_7seg_Cu/xil_7seg_Cu.sim/sim_1/synth/timing/xsim/xsim.dir/top_7seg_Br_tb_time_synth/webtalk/xsim_webtalk.tcl -notrace

@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"top_7seg_Br_tb_time_synth.v" \
+"../../../../../xil_7seg_Cu.srcs/sources_1/new/IoBd_7segX4.v" \
+"../../../../../xil_7seg_Cu.srcs/sources_1/new/top_7seg_Br_tb.v" \
+
+# Do not sort compile order
+nosort

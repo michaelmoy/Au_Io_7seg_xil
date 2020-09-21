@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_7seg_Br_tb_time_impl.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top_7seg_Br_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="2188772fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="140"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/top_7seg_Br_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/io_seg" type="array">
+      <obj_property name="ElementShortName">io_seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">io_seg[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/io_sel" type="array">
+      <obj_property name="ElementShortName">io_sel[3:0]</obj_property>
+      <obj_property name="ObjectShortName">io_sel[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/val3" type="array">
+      <obj_property name="ElementShortName">val3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">val3[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/io_seg_int" type="array">
+      <obj_property name="ElementShortName">io_seg_int[6:0]</obj_property>
+      <obj_property name="ObjectShortName">io_seg_int[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/io_sel_int" type="array">
+      <obj_property name="ElementShortName">io_sel_int[3:0]</obj_property>
+      <obj_property name="ObjectShortName">io_sel_int[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/IoBoard/dark_period" type="array">
+      <obj_property name="ElementShortName">dark_period[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dark_period[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/IoBoard/h27seg/hex_in" type="array">
+      <obj_property name="ElementShortName">hex_in[3:0]</obj_property>
+      <obj_property name="ObjectShortName">hex_in[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/IoBoard/h27seg/seg_out" type="array">
+      <obj_property name="ElementShortName">seg_out[6:0]</obj_property>
+      <obj_property name="ObjectShortName">seg_out[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/io_seg_int" type="array">
+      <obj_property name="ElementShortName">io_seg_int[6:0]</obj_property>
+      <obj_property name="ObjectShortName">io_seg_int[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/io_sel_int" type="array">
+      <obj_property name="ElementShortName">io_sel_int[3:0]</obj_property>
+      <obj_property name="ObjectShortName">io_sel_int[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/IoBoard/seg_data_int" type="array">
+      <obj_property name="ElementShortName">seg_data_int[6:0]</obj_property>
+      <obj_property name="ObjectShortName">seg_data_int[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/IoBoard/bright" type="array">
+      <obj_property name="ElementShortName">bright[3:0]</obj_property>
+      <obj_property name="ObjectShortName">bright[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_7seg_Br_tb/IoBoard/seg_state" type="array">
+      <obj_property name="ElementShortName">seg_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">seg_state[2:0]</obj_property>
+   </wvobject>
+</wave_config>
